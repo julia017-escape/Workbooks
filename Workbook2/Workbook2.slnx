@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Workbook2.vcxproj" Id="5c139220-9587-4ac1-949c-512767b89487" />
+</Solution>
