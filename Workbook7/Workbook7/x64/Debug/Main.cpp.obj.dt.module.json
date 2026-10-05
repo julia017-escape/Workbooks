@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Workbook7\\x64\\Debug\\Main.obj",
+            "outputs": [
+                "Workbook7\\x64\\Debug\\Main.cpp.obj.dt.module.json",
+                "Workbook7\\x64\\Debug\\Main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
